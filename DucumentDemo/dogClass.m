@@ -8,6 +8,16 @@
 
 #import "dogClass.h"
 
+
+@interface dogClass()
+
+/**
+ 测试aaaaa
+ */
+@property (nonatomic, assign) BOOL aaaaa;
+
+@end
+
 @implementation dogClass
 
 -(NSString *)testClassmethodWithParam:(CGFloat)num{

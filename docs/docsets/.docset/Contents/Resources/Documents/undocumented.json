@@ -1,0 +1,75 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/Joshpell/Desktop/myOnlineGithubAndBlogdata/TJJazzyDocumentForOC/DucumentDemo/testClass.h",
+      "line": 37,
+      "symbol": "WeatherConditionsInDays",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.typedef",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Joshpell/Desktop/myOnlineGithubAndBlogdata/TJJazzyDocumentForOC/DucumentDemo/testClass.h",
+      "line": 39,
+      "symbol": ".WeatherConditionsInDaysSun",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Joshpell/Desktop/myOnlineGithubAndBlogdata/TJJazzyDocumentForOC/DucumentDemo/testClass.h",
+      "line": 39,
+      "symbol": "WeatherConditionsInDays..WeatherConditionsInDaysSun",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Joshpell/Desktop/myOnlineGithubAndBlogdata/TJJazzyDocumentForOC/DucumentDemo/testClass.h",
+      "line": 40,
+      "symbol": ".WeatherConditionsInDaysClouds",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Joshpell/Desktop/myOnlineGithubAndBlogdata/TJJazzyDocumentForOC/DucumentDemo/testClass.h",
+      "line": 40,
+      "symbol": "WeatherConditionsInDays..WeatherConditionsInDaysClouds",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Joshpell/Desktop/myOnlineGithubAndBlogdata/TJJazzyDocumentForOC/DucumentDemo/testClass.h",
+      "line": 41,
+      "symbol": ".WeatherConditionsInDaysRain",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Joshpell/Desktop/myOnlineGithubAndBlogdata/TJJazzyDocumentForOC/DucumentDemo/testClass.h",
+      "line": 41,
+      "symbol": "WeatherConditionsInDays..WeatherConditionsInDaysRain",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Joshpell/Desktop/myOnlineGithubAndBlogdata/TJJazzyDocumentForOC/DucumentDemo/testClass.h",
+      "line": 42,
+      "symbol": ".WeatherConditionsInDaysSnow",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Joshpell/Desktop/myOnlineGithubAndBlogdata/TJJazzyDocumentForOC/DucumentDemo/testClass.h",
+      "line": 42,
+      "symbol": "WeatherConditionsInDays..WeatherConditionsInDaysSnow",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Joshpell/Desktop/myOnlineGithubAndBlogdata/TJJazzyDocumentForOC/DucumentDemo/testClass.h",
+      "line": 78,
+      "symbol": "testClass.day",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/Joshpell/Desktop/myOnlineGithubAndBlogdata/TJJazzyDocumentForOC"
+}

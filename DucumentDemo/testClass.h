@@ -34,14 +34,14 @@
  - WeatherConditionsInDaysRain: Get an umbrella
  - WeatherConditionsInDaysSnow: Watch out... A snowball is coming!
  */
-typedef enum {
+typedef NS_ENUM(NSUInteger,WeatherConditionsInDays) {
     
     WeatherConditionsInDaysSun,
     WeatherConditionsInDaysClouds,
     WeatherConditionsInDaysRain,
     WeatherConditionsInDaysSnow,
     
-} WeatherConditionsInDays;
+} ;
 
 #pragma mark 类的说明
 
@@ -60,6 +60,7 @@ typedef enum {
  
  @version 1.00 2017/06/21 Creation (此文档的版本信息)
  */
+
 @interface testClass : NSObject
 
 #pragma mark property
